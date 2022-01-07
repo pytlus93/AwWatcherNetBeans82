@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: com.github.pytlus93.AwWatcherNetBeans/1
+OpenIDE-Module-Install: com/github/pytlus93/AwWatcherNetBeans/AwWatcherNetBeans.class
+OpenIDE-Module-Localizing-Bundle: com/github/pytlus93/AwWatcherNetBeans/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
