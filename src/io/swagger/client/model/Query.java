@@ -29,7 +29,6 @@ import java.util.List;
 /**
  * Query
  */
-@javax.annotation.Generated(value = "io.swagger.codegen.languages.JavaClientCodegen", date = "2022-01-03T14:15:42.766Z")
 public class Query {
   @SerializedName("timeperiods")
   private List<String> timeperiods = new ArrayList<String>();

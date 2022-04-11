@@ -30,7 +30,6 @@ import org.threeten.bp.OffsetDateTime;
  * The Event model that is used in ActivityWatch
  */
 @ApiModel(description = "The Event model that is used in ActivityWatch")
-@javax.annotation.Generated(value = "io.swagger.codegen.languages.JavaClientCodegen", date = "2022-01-03T14:15:42.766Z")
 public class Event {
   @SerializedName("timestamp")
   private OffsetDateTime timestamp = null;

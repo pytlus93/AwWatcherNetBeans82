@@ -27,7 +27,6 @@ import java.io.IOException;
 /**
  * Info
  */
-@javax.annotation.Generated(value = "io.swagger.codegen.languages.JavaClientCodegen", date = "2022-01-03T14:15:42.766Z")
 public class Info {
   @SerializedName("hostname")
   private String hostname = null;

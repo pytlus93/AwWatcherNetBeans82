@@ -80,6 +80,11 @@ Client is generated from [Swagger definition](http://localhost:5600/api/swagger.
 
 ## Release Notes
 
+### 1.1.0
+
+Updated to Java 14
+It also added support to NetBeans 12
+
 ### 1.0.0
 
 First version

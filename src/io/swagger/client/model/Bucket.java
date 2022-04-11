@@ -32,7 +32,6 @@ import org.threeten.bp.OffsetDateTime;
  * The Bucket model that is used in ActivityWatch
  */
 @ApiModel(description = "The Bucket model that is used in ActivityWatch")
-@javax.annotation.Generated(value = "io.swagger.codegen.languages.JavaClientCodegen", date = "2022-01-03T14:15:42.766Z")
 public class Bucket {
   @SerializedName("id")
   private String id = null;
